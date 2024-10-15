@@ -1,16 +1,26 @@
-# flutter_code_challenge
+# Flutter Code Challenge
 
-A new Flutter project.
+## Descripción del Proyecto
 
-## Getting Started
+Este proyecto es una aplicación de Flutter que implementa un sistema de carga y visualización de publicaciones utilizando la API de [jsonplaceholder](https://jsonplaceholder.typicode.com). La aplicación utiliza BLoC para la gestión del estado y realiza solicitudes HTTP para obtener datos.
 
-This project is a starting point for a Flutter application.
+### Características
 
-A few resources to get you started if this is your first Flutter project:
+- Carga de publicaciones desde una API.
+- Visualización de una lista de publicaciones.
+- Manejo de estados de carga y error.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Requisitos Previos
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Asegúrate de tener instalado lo siguiente en tu máquina:
+
+- [Flutter](https://flutter.dev/docs/get-started/install)
+- [Dart](https://dart.dev/get-dart)
+- Un editor de código (por ejemplo, [Visual Studio Code](https://code.visualstudio.com/) o [Android Studio](https://developer.android.com/studio))
+
+## Instalación
+
+1. Clona el repositorio:
+
+   ```bash
+   git clone https://github.com/tu_usuario/flutter_code_challenge.git
